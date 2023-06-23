@@ -1,6 +1,6 @@
 ## System-on-Chip-Design-with-Arm-Cortex-M-Processors
 
-A Reference Book by Joseph Yiu (available as PDF)
+A Reference Book by Joseph Yiu 
 
 This reference book takes an expert look at all the key topics that System-on-Chip (SoC) and FPGA designers need to know when incorporating Cortex-M processors into their designs.
 
