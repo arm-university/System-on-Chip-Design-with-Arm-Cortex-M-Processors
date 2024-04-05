@@ -6,6 +6,8 @@ This reference book takes an expert look at all the key topics that System-on-Ch
 
 ## [Download here](https://github.com/arm-university/System-on-Chip-Design-with-Arm-Cortex-M-Processors/blob/main/SoCDesign_referencebook.pdf)
 
+For the code examples and projects that accompany this book, please click [here](https://github.com/arm-university/System-on-Chip-Design-with-Arm-Cortex-M-Processors/blob/main/soc_book_examples.zip).
+
 ## About this Book
 The Arm Cortex-M processors are already one of the most popular choices for loT and embedded applications, with over 45 billion chips shipped worldwide to date. Written by Arm Distinguished Engineer Joseph Yiu, this reference book takes an expert look at all the key topics that System-on-Chip (SoC) and FPGA designers need to know when incorporating Cortex-M processors into their designs.
 
